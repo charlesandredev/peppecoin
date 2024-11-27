@@ -1,0 +1,7 @@
+{
+	"short_name": "Pepper Chain",
+	"name": "Pepper Chain",
+	"icons": [],
+	"start_url": ".",
+	"display": "standalone"
+}
